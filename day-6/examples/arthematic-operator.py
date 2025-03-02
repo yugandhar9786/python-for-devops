@@ -1,0 +1,11 @@
+a=10
+b=20
+#sum
+sum=a+b
+print(sum)
+#sub
+sub=a-b
+print(sub)
+#mul
+mul=a*b
+print(mul)
